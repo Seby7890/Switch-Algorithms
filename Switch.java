@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class Switch {
     public static void main(String[] args) {
-        isWeekday();
-        isMonth();
+        isWeekday();            //1
+        isMonth();              //2
     }
 
     //1. Display day of the week
