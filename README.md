@@ -1,0 +1,1 @@
+Methods using "Switch" algorithms
